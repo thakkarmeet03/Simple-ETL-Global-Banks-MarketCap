@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+Largest_banks_marketcaps.csv
+code_log.txt
